@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c2cc1e743c0dad4c920656a4a8c93fe, type: 3}
+  m_Name: CubeGameStaticData
+  m_EditorClassIdentifier: 
+  Data:
+    GameRuleTypes: 00000000
+    Prefab: {fileID: 4221500928633344907, guid: 0c616636286494d46a252995f53e29e8, type: 3}
+    CubeSize: 135
+    CubeStaticDates:
+    - ID: 1
+      Color: {r: 1, g: 1, b: 1, a: 1}
+    - ID: 2
+      Color: {r: 1, g: 0, b: 0, a: 1}
+    - ID: 3
+      Color: {r: 0, g: 0, b: 0, a: 1}
+    - ID: 4
+      Color: {r: 0.5775318, g: 0, b: 1, a: 1}
+    - ID: 5
+      Color: {r: 0.7056604, g: 0.14778925, b: 0.54508233, a: 1}
+    - ID: 6
+      Color: {r: 0.25184044, g: 0.28027114, b: 0.81886786, a: 1}
